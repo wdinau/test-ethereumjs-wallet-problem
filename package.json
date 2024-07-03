@@ -1,5 +1,5 @@
 {
-  "name": "she3",
+  "name": "test",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@imtbl/sdk": "^1.42.0"
+    "@imtbl/sdk": "^1.45.2",
+    "dotenv": "^16.4.5"
   }
 }
